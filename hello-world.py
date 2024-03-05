@@ -1,12 +1,10 @@
 import streamlit as st
 
 # Judul dashboard
-st.title('Dashboard Sederhana')
+st.title('Dashboard')
 
 # Teks
-st.header('Header Dashboard')
-st.write('Ini adalah dashboard sederhana menggunakan Streamlit.')
+st.header('Bike')
 
 # Sidebar
 st.sidebar.header('Sidebar')
-st.sidebar.write('Ini adalah sidebar')
