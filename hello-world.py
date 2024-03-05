@@ -10,4 +10,4 @@ st.write('Bagaimana perbandingan rata-rata jumlah pengguna sepeda acak dan pengg
 
 # Teks 2
 st.header('Pertanyaan 2')
-st.write('Bagaimana pola perubahan penggunaan sepeda selama tahun ('yr') berdasarkan tiap bulannya.')
+st.write('Bagaimana pola perubahan penggunaan sepeda selama tahun berdasarkan tiap bulannya.')
