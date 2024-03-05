@@ -37,6 +37,3 @@ def main():
 
     # Menampilkan plot di Streamlit
     st.pyplot(fig)
-
-if __name__ == "__main__":
-    main()
