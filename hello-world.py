@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Membaca file CSV
 @st.cache
 def load_data():
-    df = pd.read_csv("nama_file.csv")
+    df = pd.read_csv("day.csv")
     return df
 
 def main():
